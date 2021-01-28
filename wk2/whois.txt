@@ -1,0 +1,249 @@
+___________________________________________________________________________________
+-----Georgebrown.ca-----
+
+ns1.d-zone.ca 162.219.54.2
+ns1.georgebrown.ca 198.96.86.35
+ns2.d-zone.ca 162.219.55.2
+ns2.georgebrown.ca 198.96.87.135
+
+Registrant Contact Information:
+Name George Brown College (Toronto)
+Organization
+Address  P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email ariem@georgebrown.ca
+
+Administrative Contact Information:
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email ariem@georgebrown.ca
+
+Technical Contact Information:
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email ariem@georgebrown.ca
+
+Billing Contact Information:
+Name George Brown College (Toronto)
+Organization
+Address P.O. Box 1015 Station B
+City Toronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email ariem@georgebrown.ca
+___________________________________________________________________________________
+-----github.com-----
+dns1.p08.nsone.net198.51.44.8
+dns2.p08.nsone.net198.51.45.8
+dns3.p08.nsone.net198.51.44.72
+dns4.p08.nsone.net198.51.45.72
+ns-1283.awsdns-32.org205.251.197.3
+ns-1707.awsdns-21.co.uk205.251.198.171
+ns-421.awsdns-52.com205.251.193.165
+ns-520.awsdns-01.net205.251.194.8
+
+Domain Name: github.com
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-09-08T02:18:27-0700
+Creation Date: 2007-10-09T11:20:50-0700
+Registrar Registration Expiration Date: 2022-10-09T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registrant Organization: GitHub, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Admin Organization: GitHub, Inc.
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Tech Organization: GitHub, Inc.
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/github.com
+Name Server: ns-1707.awsdns-21.co.uk
+Name Server: dns1.p08.nsone.net
+Name Server: dns2.p08.nsone.net
+Name Server: ns-421.awsdns-52.com
+Name Server: ns-520.awsdns-01.net
+Name Server: dns4.p08.nsone.net
+Name Server: ns-1283.awsdns-32.org
+Name Server: dns3.p08.nsone.net
+DNSSEC: unsigned
+
+___________________________________________________________________________________
+-----blizzard.com-----
+NS-EAST.CERF.NET99.99.99.136
+NS-WEST.CERF.NET68.94.156.136
+
+Registrant Contact Information:
+NameBlizzard Entertainment
+OrganizationBlizzard Entertainment
+Address16215 ALTON PKWY
+CityIRVINE
+State / ProvinceCA
+Postal Code92618-3616
+CountryUS
+Phone+1.9499551380
+Email domainnameadmin-us@blizzard.com
+
+Administrative Contact Information:
+NameBlizzard Entertainment
+OrganizationBlizzard Entertainment
+Address16215 ALTON PKWY
+CityIRVINE
+State / ProvinceCA
+Postal Code92618-3616
+CountryUS
+Phone+1.9499551380
+Email domainnameadmin-us@blizzard.com
+
+Technical Contact Information:
+NameBlizzard Entertainment
+OrganizationBlizzard Entertainment
+Address16215 ALTON PKWY
+CityIRVINE
+State / ProvinceCA
+Postal Code92618-3616
+CountryUS
+Phone+1.9499551380
+Email domainnameadmin-us@blizzard.com
+
+___________________________________________________________________________________
+-----tsn.ca-----
+pdns1.ultradns.net204.74.108.1
+pdns2.ultradns.net204.74.109.1
+pdns3.ultradns.org199.7.68.1
+pdns4.ultradns.org199.7.69.1
+pdns5.ultradns.info204.74.114.1
+pdns6.ultradns.co.uk204.74.115.1
+
+Registrant Contact Information:
+NameThe Sports Network Inc.
+Organization
+Address9 Channel Nine Court
+CityScarborough
+State / ProvinceON
+Postal CodeM1S4B5
+CountryCA
+Phone+1.5148702477
+Email trademarks@bell.ca
+
+Administrative Contact Information:
+NameThe Sports Network Inc.
+Organization
+Address9 Channel Nine Court
+CityScarborough
+State / ProvinceON
+Postal CodeM1S4B5
+CountryCA
+Phone+1.5148702477
+Email trademarks@bell.ca
+
+Technical Contact Information:
+NameThe Sports Network Inc.
+Organization
+Address9 Channel Nine Court
+CityScarborough
+State / ProvinceON
+Postal CodeM1S4B5
+CountryCA
+Phone+1.5148702477
+Email trademarks@bell.ca
+
+Billing Contact Information:
+NameThe Sports Network Inc.
+Organization
+Address9 Channel Nine Court
+CityScarborough
+State / ProvinceON
+Postal CodeM1S4B5
+CountryCA
+Phone+1.5148702477
+Email trademarks@bell.ca
+
+___________________________________________________________________________________
+-----sportsnet.ca-----
+a1-220.akam.net193.108.91.220
+a22-67.akam.net23.211.61.67
+a3-64.akam.net96.7.49.64
+a6-65.akam.net23.211.133.65
+a8-66.akam.net2.16.40.66
+a9-67.akam.net184.85.248.67
+
+Registrant Contact Information:
+NameRogers Media Inc.
+Organization
+Address333 Bloor St. East., 9th Floor
+CityToronto
+State / ProvinceON
+Postal CodeM4W1G9
+CountryCA
+Phone+1.4169357938
+Fax+1.4169357627
+Email domadmin@rci.rogers.com
+
+Administrative Contact Information:
+NameRogers Media Inc.
+Organization
+Address333 Bloor St. East., 9th Floor
+CityToronto
+State / ProvinceON
+Postal CodeM4W1G9
+CountryCA
+Phone+1.4169357938
+Fax+1.4169357627
+Email domadmin@rci.rogers.com
+
+Technical Contact Information:
+NameRogers Media Inc.
+Organization
+Address333 Bloor St. East., 9th Floor
+CityToronto
+State / ProvinceON
+Postal CodeM4W1G9
+CountryCA
+Phone+1.4169357938
+Fax+1.4169357627
+Email domadmin@rci.rogers.com
+
+Billing Contact Information:
+NameRogers Media Inc.
+Organization
+Address333 Bloor St. East., 9th Floor
+CityToronto
+State / ProvinceON
+Postal CodeM4W1G9
+CountryCA
+Phone+1.4169357938
+Fax+1.4169357627
+Email domadmin@rci.rogers.com

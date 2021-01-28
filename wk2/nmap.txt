@@ -1,0 +1,75 @@
+#Step 1
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 23.5.238.128
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-28 21:31 UTC
+Nmap scan report for a23-5-238-128.deploy.static.akamaitechnologies.com (23.5.238.128)
+Host is up (0.011s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.52 seconds
+
+#Step 2
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 90 23.5.238.128
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-28 21:35 UTC
+Nmap scan report for a23-5-238-128.deploy.static.akamaitechnologies.com (23.5.238.128)
+Host is up (0.012s latency).
+
+PORT   STATE    SERVICE
+90/tcp filtered dnsix
+
+Nmap done: 1 IP address (1 host up) scanned in 11.26 seconds
+
+#Step 3
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 60-80 23.5.238.128
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-28 21:36 UTC
+Nmap scan report for a23-5-238-128.deploy.static.akamaitechnologies.com (23.5.238.128)
+Host is up (0.012s latency).
+
+PORT   STATE    SERVICE
+60/tcp filtered unknown
+61/tcp filtered ni-mail
+62/tcp filtered acas
+63/tcp filtered via-ftp
+64/tcp filtered covia
+65/tcp filtered tacacs-ds
+66/tcp filtered sqlnet
+67/tcp filtered dhcps
+68/tcp filtered dhcpc
+69/tcp filtered tftp
+70/tcp filtered gopher
+71/tcp filtered netrjs-1
+72/tcp filtered netrjs-2
+73/tcp filtered netrjs-3
+74/tcp filtered netrjs-4
+75/tcp filtered priv-dial
+76/tcp filtered deos
+77/tcp filtered priv-rje
+78/tcp filtered vettcp
+79/tcp filtered finger
+80/tcp open     http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.49 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80-150 23.5.238.128
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-28 21:37 UTC
+Nmap scan report for a23-5-238-128.deploy.static.akamaitechnologies.com (23.5.238.128)
+Host is up (0.011s latency).
+Not shown: 70 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.61 seconds
+
+#Step 4
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F 23.5.238.128
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-28 21:38 UTC
+Nmap scan report for a23-5-238-128.deploy.static.akamaitechnologies.com (23.5.238.128)
+Host is up (0.012s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 13.12 seconds
+

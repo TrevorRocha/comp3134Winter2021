@@ -1,0 +1,18 @@
+C:\Users\trevo>tracert 159.203.43.128
+
+Tracing route to 159.203.43.128 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  mynetwork [192.168.2.1]
+  2     3 ms     9 ms     3 ms  10.11.6.169
+  3     *        *        *     Request timed out.
+  4     5 ms     7 ms     7 ms  tcore3-toronto63_hu2/3/0/3_38.net.bell.ca [64.230.59.182]
+  5     1 ms    <1 ms     1 ms  dis68-toronto63_2-0-0.net.bell.ca [64.230.106.105]
+  6     1 ms     1 ms     1 ms  bx5-torontoxn_ae1.net.bell.ca [64.230.52.231]
+  7     1 ms     1 ms     1 ms  toro-b1-link.telia.net [213.248.97.222]
+  8     1 ms     1 ms     1 ms  toro-b1-link.ip.twelve99.net [62.115.116.181]
+  9     1 ms     1 ms     1 ms  digitalocean-ic-313813-toro-b1.c.telia.net [62.115.9.210]
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     2 ms     1 ms     2 ms  159.203.43.128
+
+Trace complete.

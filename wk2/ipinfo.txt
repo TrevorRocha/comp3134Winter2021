@@ -1,0 +1,19 @@
+Domain Name: tsn.ca
+IP Address: 23.5.238.128
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge
+
+Domain Name: sportsnet.ca
+IP Address: 23.192.40.123
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge
+
+Domain Name: georgebrown.ca
+IP Address: 99.79.139.11
+Geolocation: US (United States), WA, Washington, 98108 Seattle
+
+Domain Name: github.com
+IP Address: 140.82.113.3
+Geolocation: US (United States), MA, Massachusetts, 02110 Boston
+
+Domain Name: blizzard.com
+IP Address: 137.221.106.104
+Geolocation: FR (France), N/A, N/A, N/A N/A
