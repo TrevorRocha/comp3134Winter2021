@@ -1,0 +1,27 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -XX -i eth0
+
+0x00c0:  e0ee df30 4180 ac80 d02b ecda 7eba 1eb8  ...0A....+..~...
+        0x00d0:  a327 062b ab5b cfe8 435d 3e15 02be 643c  .'.+.[..C]>...d<
+        0x00e0:  1a2a 8366 32e6 4280 a50f 92e5 c037 1d13  .*.f2.B......7..
+        0x00f0:  7d20 b49d 10b1 8b0e 2374 84f7 383b 5127  }.......#t..8;Q'
+        0x0100:  51e2 aea6 e361 4094 e613 2e81 4be9 3115  Q....a@.....K.1.
+        0x0110:  4c19 c490 4f90 4405 6d59 39b4 6609 988c  L...O.D.mY9.f...
+        0x0120:  25d7 930b 6980 94c1 6d03 2a8a d44a 7477  %...i...m.*..Jtw
+        0x0130:  76b7 796f 0fa8 c143 7ccd fb1f 88bf 46b8  v.yo...C|.....F.
+        0x0140:  a1c4 bff1 3918 becd a68f 82e0 25ab cf4a  ....9.......%..J
+        0x0150:  fd45 7250 a015 242e 6ecd e3d5 a0f4 de4b  .ErP..$.n......K
+        0x0160:  ab21 2475 dcd5 5cfe edeb d75d ea84 632f  .!$u..\....]..c/
+        0x0170:  425d 9c60 97c1 72bc bfc6 dcf3 a77b fa41  B].`..r......{.A
+        0x0180:  2927 6f6a 6c22 9fe2 f584 ffd7 2674 71a8  )'ojl"......&tq.
+        0x0190:  98d1 1695 29e7 2986 9006 1636 d2d6 1336  ....).)....6...6
+        0x01a0:  8a5c 5122 8d71 1537 c5d2 3b9d 1b8c f2e0  .\Q".q.7..;.....
+        0x01b0:  c56d 1455 5ae7 ea48 e951 14cc 1d42 3a1a  .m.UZ..H.Q...B:.
+        0x01c0:  901f 1715 81df 5a6e 7045 11e6 9529 55ff  ......ZnpE...)U.
+        0x01d0:  67fb 7f34 3f64 3c6b 52dd 2cac 5cee 2298  g..4?d<kR.,.\.".
+        0x01e0:  9f9c 72f6 eee4 e295 f8fe 51d9 c652 7774  ..r.......Q..Rwt
+        0x01f0:  2e22 50e3 d132 6394 e46d e670 11fc 4685  ."P..2c..m.p..F.
+        0x0200:  2aa7 6aa9 ef80 2a0b acaa                 *.j...*...
+
+1662 packets captured
+15235 packets received by filter
+13090 packets dropped by kernel

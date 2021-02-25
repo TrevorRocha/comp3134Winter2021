@@ -1,0 +1,11 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+22:57:17.517477 IP 159.203.43.128.ssh > bras-base-toroon0411w-grc-51-142-114-105-168.dsl.bell.ca.52873: Flags [P.], seq 1337377861:1337377897, ack 1113545756, win 501, length 36
+22:57:17.518893 IP 159.203.43.128.ssh > bras-base-toroon0411w-grc-51-142-114-105-168.dsl.bell.ca.52873: Flags [P.], seq 36:144, ack 1, win 501, length 108
+22:57:17.518963 IP 159.203.43.128.ssh > bras-base-toroon0411w-grc-51-142-114-105-168.dsl.bell.ca.52873: Flags [P.], seq 144:180, ack 1, win 501, length 36
+22:57:17.519002 IP 159.203.43.128.ssh > bras-base-toroon0411w-grc-51-142-114-105-168.dsl.bell.ca.52873: Flags [P.], seq 180:288, ack 1, win 501, length 108
+22:57:17.519038 IP 159.203.43.128.ssh > bras-base-toroon0411w-grc-51-142-114-105-168.dsl.bell.ca.52873: Flags [P.], seq 288:324, ack 1, win 501, length 36
+5 packets captured
+20 packets received by filter
+0 packets dropped by kernel
