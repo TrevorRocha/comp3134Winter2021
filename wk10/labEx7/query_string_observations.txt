@@ -1,0 +1,11 @@
+1) when entering the word "hockey" im taken to a new page and the url changes to https://www.dictionary.com/browse/hockey
+
+2)when changing the word to "baseball" after /browse/ i am taken to a new page with information on baseball.
+
+3)i am taken to a page with Results for <script>alert('hello')</script>: which do not show any
+ related content to the script the url also has added noresult?term= before the script.
+ https://www.dictionary.com/noresult?term=<script>alert(%27hello%27)<%2Fscript>
+
+4)same as answer 3
+
+

@@ -1,0 +1,5 @@
+strip tags is a function that removes html, xml and php tags from a string.
+its a way of removing <script>
+
+html entities is a functions that converts characterts to html entities.
+the convertion prevents them from being used as an html element.
