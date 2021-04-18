@@ -1,0 +1,2 @@
+1) no file named hello 
+2) the structure of the webserver
